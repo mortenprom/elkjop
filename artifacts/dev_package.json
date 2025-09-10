@@ -1,0 +1,270 @@
+{
+	"id": "02efc8ff-80b8-4cee-91a0-aaa395472095",
+	"createdAt": "2025-08-23T09:02:09.797Z",
+	"createdBy": "morten@neptune-software.com",
+	"git": {
+		"remote": "https://github.com/mortenprom/elkjop.git",
+		"branch": "main"
+	},
+	"name": "prom-elkjop",
+	"description": "Elkjøp",
+	"ver": "25.09.10.1210",
+	"enableCICD": true,
+	"internalReadOnly": false,
+	"oeVersion": null,
+	"excludeTemplateFiles": false,
+	"roles": [],
+	"apps": [
+		{
+			"id": "10ad0e43-1d94-4a18-95e1-4525dc06362f",
+			"application": "elkjop_forms",
+			"title": "",
+			"description": ""
+		}
+	],
+	"api": [],
+	"odataSource": [],
+	"odataMock": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [
+		{
+			"id": "c5e1c068-c935-48cd-b300-90f1e7974248",
+			"name": "elkjop",
+			"description": null
+		}
+	],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [
+		{
+			"id": "ff99d090-a163-4caa-81e2-6992e61ca27e",
+			"description": "Møt Pixel Watch 4 – en smartklokke i toppklasse, utviklet av Google med presisjon og håndverk i fokus. Den er bygget for å vare, med en banebrytende Actua 360-kuppelformet skjerm, den lengste batteritiden og raskeste ladingen noensinne på en Pixel Watch. I tillegg får du nyttig AI, kraftige helse- og treningsverktøy og smarte sikkerhetsfunksjoner – alt for å gi deg trygghet i hverdagen.",
+			"name": "elkjop-pixel-watch-4"
+		},
+		{
+			"id": "ec552f2a-2859-4675-b5ea-9db73df9f91d",
+			"description": "",
+			"name": "elkjop-product-kitchen"
+		},
+		{
+			"id": "e5c3ef13-609f-4831-b08d-ced59e943d9c",
+			"description": "",
+			"name": "elkjop-support-live-shopping"
+		},
+		{
+			"id": "e35c65ef-db67-4aad-88b4-f853b77869a1",
+			"description": "",
+			"name": "elkjop-product-business"
+		},
+		{
+			"id": "db3f895f-253a-41b0-a278-75b2939f61b0",
+			"description": "",
+			"name": "elkjop-product-gaming"
+		},
+		{
+			"id": "c85764bc-3f14-4fdc-83c3-3df8c6dcd72c",
+			"description": "Bryt ut av det vanlige med Google Pixel 10. Den har Pixels kraftigste chip, et fantastisk kamera og innebygd Gemini for å gi produktiviteten og kreativiteten din et løft.",
+			"name": "elkjop-pixel-10-teaser"
+		},
+		{
+			"id": "bcfcc129-d43b-4b2d-a4c3-65488356b4dd",
+			"description": "",
+			"name": "elkjop-support-chat"
+		},
+		{
+			"id": "b07ff0a0-5ea4-4433-98de-323065f1acab",
+			"description": "Opplev det ekstraordinære med Google Pixel 10 Pro Fold. Den største skjermen noensinne på en Pixel, kombinert med avansert AI fra Gemini. Den beste Pixel-en for multitasking og underholdning.",
+			"name": "elkjop-pixel-10-fold"
+		},
+		{
+			"id": "ab9a5a77-e303-4afb-bea1-81ed97c9a5f6",
+			"description": "",
+			"name": "elkjop-product-tv"
+		},
+		{
+			"id": "9a17f525-57c3-41a7-9e38-8d6d76fcd430",
+			"description": "",
+			"name": "elkjop-support-click-collect"
+		},
+		{
+			"id": "998966d0-4565-449e-8e10-ec1cf68b2e70",
+			"description": "",
+			"name": "elkjop-product-home"
+		},
+		{
+			"id": "89fa95c0-ba9c-4526-af90-30007f64c687",
+			"description": "",
+			"name": "elkjop-support-return"
+		},
+		{
+			"id": "6fecc586-5cc8-4da3-ba78-41aea46848e0",
+			"description": "",
+			"name": "elkjop-product-appliance"
+		},
+		{
+			"id": "69b4a525-e16f-44d2-b27e-49777c384438",
+			"description": "Lever inn din gamle elektronikk og få innbytteverdi som avslag på nytt produkt eller gavekort.",
+			"name": "elkjop-service-return"
+		},
+		{
+			"id": "66541abc-baa4-433c-af1b-072c5bfc3def",
+			"description": "",
+			"name": "elkjop-support-pricematch"
+		},
+		{
+			"id": "61f05675-95b0-4943-a4d4-44a8509cbac7",
+			"description": "Stadig flere ser de opplagte grunnene til å kjøpe en brukt mobil.",
+			"name": "elkjop-service-used"
+		},
+		{
+			"id": "59b815f1-3d20-475e-b98c-64b829284b84",
+			"description": "",
+			"name": "elkjop-product-office"
+		},
+		{
+			"id": "5091d751-833b-4713-869f-a70016c66e45",
+			"description": "",
+			"name": "elkjop-support-club"
+		},
+		{
+			"id": "3bddf977-d082-431c-bf32-c5ef6ae263ba",
+			"description": "",
+			"name": "elkjop-support-openbuy"
+		},
+		{
+			"id": "3853b097-d780-4417-b45c-8c6a3f2eac97",
+			"description": "",
+			"name": "elkjop-product-outlet"
+		},
+		{
+			"id": "334534b8-105d-4670-8f3c-f253a5686d71",
+			"description": "Vårt verksted Elcare er Nordens største verksted for reparasjon av elektronikk! Du kan også kjøpe reservedeler hos oss.",
+			"name": "elkjop-service-repair"
+		},
+		{
+			"id": "244ed151-f75e-4806-8eab-43d11cf6a661",
+			"description": "Som medlem i vår kundeklubb får du eksklusive tilbud, faste klubbfordeler, nyhetsbrev, VIP-shopping og tilbud fra partnere.",
+			"name": "elkjop-service-club"
+		},
+		{
+			"id": "1f6cee66-60d4-4ee9-b0ce-61933ff683dc",
+			"description": "",
+			"name": "elkjop-product-personal"
+		},
+		{
+			"id": "1e81ced0-d913-42fb-8bf8-79d1f2966460",
+			"description": "",
+			"name": "elkjop-product-phone"
+		},
+		{
+			"id": "1ce3ccbd-d989-48cc-9e73-cba4dbb125e6",
+			"description": "",
+			"name": "elkjop-product-services"
+		}
+	],
+	"tile_layout": [
+		{
+			"id": "cc4a5926-05fc-49f0-ab85-7b5dd6441d98",
+			"NAME": "elkjop-support"
+		},
+		{
+			"id": "bb3b530e-4ea1-47b0-bbce-e6c8ed2c97d9",
+			"NAME": "elkjop-product"
+		},
+		{
+			"id": "8ceca99d-052e-4d95-9121-581c03b61375",
+			"NAME": "elkjop-tile-background"
+		},
+		{
+			"id": "44d56d3d-5483-4b82-b68d-e1dd906b5e6a",
+			"NAME": "elkjop-pixel"
+		},
+		{
+			"id": "34e23e74-37d3-46b9-80fa-87b1f7710695",
+			"NAME": "elkjop-service"
+		}
+	],
+	"category": [
+		{
+			"id": "f3baa368-f939-4b7e-a518-96a33f191f5b",
+			"description": null,
+			"name": "elkjop-products"
+		},
+		{
+			"id": "b964a445-87ed-4ac5-98c7-b93eba2634ce",
+			"description": null,
+			"name": "elkjop-services"
+		},
+		{
+			"id": "58860ffa-62aa-4fa7-b2b9-c57ce71dc7e6",
+			"description": null,
+			"name": "elkjop-home"
+		},
+		{
+			"id": "2123c94d-679e-4101-8248-59298c53dd4f",
+			"description": null,
+			"name": "elkjop-support"
+		},
+		{
+			"id": "13ef2500-aec9-4325-ba0d-eba908f100de",
+			"description": null,
+			"name": "elkjop-pixel"
+		}
+	],
+	"tilegroup_layout": [
+		{
+			"id": "96ef5452-5db5-4743-bf0f-831b36a9bc38",
+			"NAME": "elkjop-gridmargin-2xlarge"
+		},
+		{
+			"id": "88dcad88-3884-4c72-a6f8-fe02f5f6c875",
+			"NAME": "elkjop-product"
+		},
+		{
+			"id": "54ec13fc-60b9-41f9-8c42-1ac2b07cbd3a",
+			"NAME": "elkjop-support"
+		}
+	],
+	"launchpad": [
+		{
+			"id": "4b7c5123-3e9a-4433-a667-aa34940649af",
+			"name": "prom-elkjop",
+			"description": null
+		}
+	],
+	"launchpad_layout": [
+		{
+			"id": "ceffb592-76af-4e0b-8212-73d6d88b0309",
+			"NAME": "elkjop-light",
+			"DESCR": null
+		}
+	],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"department": [],
+	"script_scheduler": [],
+	"wf_definition": [],
+	"connector": [],
+	"i18n": [
+		{
+			"id": "0d39fd8a-18c1-4582-bd0f-0933a290bfd3",
+			"name": "elkjop_forms",
+			"description": null
+		}
+	],
+	"events": [],
+	"code_snippets": [],
+	"wf_determination": [],
+	"wf_taskaction": [],
+	"theme_ui5": [],
+	"webapp": [],
+	"ui5_control": []
+}

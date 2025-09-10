@@ -1,0 +1,23 @@
+{
+	"id": "0d39fd8a-18c1-4582-bd0f-0933a290bfd3",
+	"createdAt": "2025-08-26T09:01:19.963Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "elkjop_forms",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "elkjop_forms",
+	"ver": "25.08.27.2344",
+	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}
