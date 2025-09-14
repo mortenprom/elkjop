@@ -28,13 +28,7 @@
 	"dictionary": [],
 	"jsclass": [],
 	"jsscript_group": [],
-	"theme": [
-		{
-			"id": "c5e1c068-c935-48cd-b300-90f1e7974248",
-			"name": "elkjop",
-			"description": null
-		}
-	],
+	"theme": [],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
@@ -177,10 +171,6 @@
 			"NAME": "elkjop-product"
 		},
 		{
-			"id": "8ceca99d-052e-4d95-9121-581c03b61375",
-			"NAME": "elkjop-tile-background"
-		},
-		{
 			"id": "44d56d3d-5483-4b82-b68d-e1dd906b5e6a",
 			"NAME": "elkjop-pixel"
 		},
@@ -219,11 +209,15 @@
 	"tilegroup_layout": [
 		{
 			"id": "96ef5452-5db5-4743-bf0f-831b36a9bc38",
-			"NAME": "elkjop-gridmargin-2xlarge"
+			"NAME": "elkjop-pixel"
 		},
 		{
 			"id": "88dcad88-3884-4c72-a6f8-fe02f5f6c875",
 			"NAME": "elkjop-product"
+		},
+		{
+			"id": "6745732c-6ec1-4d6a-9047-3e8c5cfb6ff9",
+			"NAME": "elkjop-services"
 		},
 		{
 			"id": "54ec13fc-60b9-41f9-8c42-1ac2b07cbd3a",

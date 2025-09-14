@@ -3,7 +3,7 @@
 	"createdAt": "2025-08-23T18:14:01.814Z",
 	"createdBy": "morten@neptune-software.com",
 	"NAME": "elkjop-support",
-	"ver": "25.09.05.0143",
+	"ver": "25.09.14.1503",
 	"TILE_BACK": null,
 	"TILE_BORDER": null,
 	"TILE_HOVER": null,
@@ -33,7 +33,7 @@
 	"TITLE_ALIGN": "Center",
 	"TITLE_LEVEL": "H6",
 	"TITLE_LEVEL_SUB": null,
-	"FIORI_STYLE": null,
+	"FIORI_STYLE": "X",
 	"BACK_WIDTH": "Narrow",
 	"TILE_BACK_HEIGHT": "",
 	"FIT_TILE_CONTENT": null,
@@ -69,7 +69,6 @@
 	"BG_FIL_SATURATE": "0",
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"TILE_CONTENT_MARGIN": null,
 	"TILE_MARGIN_SHORTHAND": null,
 	"TILE_MARGIN_START": null,
 	"TILE_MARGIN_END": null,
@@ -92,10 +91,5 @@
 	"TILE_TITLE_PADDING_BOTTOM": null,
 	"TILE_ICON_SIZE": "4rem",
 	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
-	"LAYOUT_HIERARCHY": [
-		{
-			"id": "8ceca99d-052e-4d95-9121-581c03b61375",
-			"ver": "25.08.23.1811"
-		}
-	]
+	"LAYOUT_HIERARCHY": []
 }

@@ -35,7 +35,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.08.25.1220",
+	"ver": "25.09.14.1503",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -96,19 +96,19 @@
 	"sidebarWidth": null,
 	"navbarFit": null,
 	"sidebarFit": null,
-	"FIORI_STYLE": "X",
+	"FIORI_STYLE": "",
 	"roles": [],
 	"lightGroupLayouts": [
 		{
 			"id": "54ec13fc-60b9-41f9-8c42-1ac2b07cbd3a",
-			"ver": "25.09.01.0015"
+			"ver": "25.09.14.1504"
 		}
 	],
 	"darkGroupLayouts": [],
 	"lightTileLayouts": [
 		{
 			"id": "cc4a5926-05fc-49f0-ab85-7b5dd6441d98",
-			"ver": "25.09.05.0143"
+			"ver": "25.09.14.1503"
 		}
 	],
 	"darkTileLayouts": [],

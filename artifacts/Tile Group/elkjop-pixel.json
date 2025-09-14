@@ -31,7 +31,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.08.25.0153",
+	"ver": "25.09.14.1457",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -48,7 +48,7 @@
 	"name": "elkjop-pixel",
 	"cardContentWidth": null,
 	"cardContentAlign": null,
-	"cardPerRow": "Few",
+	"cardPerRow": "",
 	"cardStyle": null,
 	"cardHeightFit": false,
 	"imagePlacement": null,
@@ -97,14 +97,14 @@
 	"lightGroupLayouts": [
 		{
 			"id": "96ef5452-5db5-4743-bf0f-831b36a9bc38",
-			"ver": "25.09.05.0140"
+			"ver": "25.09.14.1457"
 		}
 	],
 	"darkGroupLayouts": [],
 	"lightTileLayouts": [
 		{
 			"id": "44d56d3d-5483-4b82-b68d-e1dd906b5e6a",
-			"ver": "25.09.05.0141"
+			"ver": "25.09.14.1509"
 		}
 	],
 	"darkTileLayouts": [],

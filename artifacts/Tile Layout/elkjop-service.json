@@ -69,7 +69,6 @@
 	"BG_FIL_SATURATE": "0",
 	"BG_MASK_IMG": null,
 	"BG_MASK_CUSTOM": null,
-	"TILE_CONTENT_MARGIN": "1.5rem",
 	"TILE_MARGIN_SHORTHAND": "1.5rem",
 	"TILE_MARGIN_START": null,
 	"TILE_MARGIN_END": null,

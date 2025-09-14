@@ -17,6 +17,14 @@
 	"GRID_MARGIN_TOP": null,
 	"GRID_MARGIN_BOTTOM": null,
 	"GRID_BACKGROUND_COLOR": "var(--sapShellColor)",
+	"GRID_CELLS_XXSMALL": null,
+	"GRID_CELLS_XSMALL": null,
+	"GRID_CELLS_SMALL": null,
+	"GRID_CELLS_MEDIUM": null,
+	"GRID_CELLS_LARGE": "14",
+	"GRID_CELLS_XLARGE": "14",
+	"GRID_CELLS_XXLARGE": null,
+	"GRID_CELLS_XXXLARGE": null,
 	"HEAD_TEXT_ALIGN": null,
 	"HEAD_TEXT_LEVEL": null,
 	"HEAD_SUB_LEVEL": null,
@@ -52,6 +60,6 @@
 	"BACK_IMAGE_MOB": null,
 	"TILES_PR_ROW": null,
 	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
-	"ver": "25.09.01.0015",
+	"ver": "25.09.14.1504",
 	"LAYOUT_HIERARCHY": []
 }
