@@ -8,7 +8,7 @@
 	},
 	"name": "prom-elkjop",
 	"description": "Elkjøp",
-	"ver": "25.09.10.1210",
+	"ver": "25.09.24.0132",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -182,12 +182,12 @@
 	"category": [
 		{
 			"id": "f3baa368-f939-4b7e-a518-96a33f191f5b",
-			"description": null,
+			"description": "#1",
 			"name": "elkjop-products"
 		},
 		{
 			"id": "b964a445-87ed-4ac5-98c7-b93eba2634ce",
-			"description": null,
+			"description": "#4",
 			"name": "elkjop-services"
 		},
 		{
@@ -197,12 +197,12 @@
 		},
 		{
 			"id": "2123c94d-679e-4101-8248-59298c53dd4f",
-			"description": null,
+			"description": "#3",
 			"name": "elkjop-support"
 		},
 		{
 			"id": "13ef2500-aec9-4325-ba0d-eba908f100de",
-			"description": null,
+			"description": "#2",
 			"name": "elkjop-pixel"
 		}
 	],
@@ -260,5 +260,9 @@
 	"wf_taskaction": [],
 	"theme_ui5": [],
 	"webapp": [],
-	"ui5_control": []
+	"ui5_control": [],
+	"ai_agents": [],
+	"ai_models": [],
+	"ai_prompts": [],
+	"ai_tools": []
 }

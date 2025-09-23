@@ -9,14 +9,6 @@
 	],
 	"layout": [],
 	"config": {
-		"showAccessibilityFocusIndicator": true,
-		"enableTopMenu": false,
-		"noSubmenuHover": true,
-		"oneLineTopMenu": false,
-		"activeAppsTop": true,
-		"activeAppsSide": false,
-		"languages": [],
-		"locales": [],
 		"enhancement": [
 			"==OBJECT STRING==",
 			"sap.n.Enhancement.BeforeStartup = function () {",
@@ -29,8 +21,12 @@
 			"head.appendChild(designLanguageTheme);",
 			"        };"
 		],
-		"showLaunchpadTitle": true,
-		"showAppTitle": true
+		"languages": [],
+		"activeAppsSide": false,
+		"activeAppsTop": true,
+		"showAppTitle": true,
+		"enableTopMenu": false,
+		"showAccessibilityFocusIndicator": true
 	},
 	"enhancement": [
 		{
@@ -87,7 +83,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.09.14.1511",
+	"ver": "25.09.22.1215",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
