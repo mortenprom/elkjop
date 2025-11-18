@@ -3,7 +3,7 @@
 	"createdAt": "2025-11-18T17:22:14.401Z",
 	"createdBy": "morten@neptune-software.com",
 	"name": "prom-elkjop-dark",
-	"ver": "25.11.18.1824",
+	"ver": "25.11.18.2019",
 	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
 	"active": false,
 	"description": null,
@@ -55,7 +55,11 @@
 	"CSS_VAR_CRITICAL_COLOR": null,
 	"CSS_VAR_INFORMATION_COLOR": null,
 	"CSS_VAR_BORDER_RADIUS": null,
-	"CSS_VAR_CUSTOM": null,
+	"CSS_VAR_CUSTOM": [
+		"==OBJECT STRING==",
+		"@use \"sass:color\";\r",
+		"$sapContent_HeaderShadow: 0 0.125rem 0.125rem 0 rgba(color.scale($nepHighlightColor, $lightness: -40%), 0.2), inset 0 -0.0625rem 0 0 color.scale($nepHighlightColor, $lightness: -40%);"
+	],
 	"CSS_VAR_CUSTOM_CSS": null,
 	"CSS_VARIABLES": [
 		"==OBJECT STRING==",
@@ -141,7 +145,7 @@
 		"  --sapContent_Shadow3: 0 0 0 0.0625rem rgba(17.901, 20.2572, 27.999, 0.35), 0 1.25rem 5rem 0 rgba(0, 0, 0, 0.6);",
 		"  --sapContent_TextShadow: 0 0 0.125rem #000;",
 		"  --sapContent_ContrastTextShadow: none;",
-		"  --sapContent_HeaderShadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), inset 0 -0.0625rem 0 0 hsl(226, 91%, 23.64%);",
+		"  --sapContent_HeaderShadow: 0 0.125rem 0.125rem 0 rgba(114.5477, 183.1155, 36.1845, 0.2), inset 0 -0.0625rem 0 0 hsl(88, 67%, 43%);",
 		"  --sapContent_Interaction_Shadow: inset 0 0 0 0.0625rem rgba(87.9087, 140.5305, 27.7695, 0.25);",
 		"  --sapContent_Selected_Shadow: inset 0 0 0 0.0625rem rgba(114.5477, 183.1155, 36.1845, 0.3);",
 		"  --sapContent_Negative_Shadow: inset 0 0 0 0.0625rem rgba(248.7226993865, 56.6373006135, 56.6373006135, 0.3);",
