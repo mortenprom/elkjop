@@ -26,7 +26,8 @@
 		"activeAppsTop": true,
 		"showAppTitle": true,
 		"enableTopMenu": false,
-		"showAccessibilityFocusIndicator": true
+		"showAccessibilityFocusIndicator": true,
+		"locales": []
 	},
 	"enhancement": [
 		{
@@ -83,7 +84,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.09.22.1215",
+	"ver": "25.11.18.1518",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -100,6 +101,7 @@
 	"activationCodeEmail": null,
 	"noSubmenuHover": false,
 	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
+	"agentId": null,
 	"cat": [
 		{
 			"id": "58860ffa-62aa-4fa7-b2b9-c57ce71dc7e6",
@@ -107,5 +109,7 @@
 			"title": "elkjop-home",
 			"ver": "25.08.24.0056"
 		}
-	]
+	],
+	"roles": [],
+	"i18n": []
 }

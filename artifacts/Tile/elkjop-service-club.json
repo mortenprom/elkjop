@@ -80,6 +80,8 @@
 	"forceAttributes": false,
 	"openText": null,
 	"imageHeight": null,
+	"imageObjectFit": null,
+	"imageObjectPosition": null,
 	"bodyHeight": null,
 	"roleTag": null,
 	"sapICFNode": null,
@@ -93,5 +95,6 @@
 	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
 	"roles": [],
 	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"darkTileLayouts": [],
+	"i18n": []
 }

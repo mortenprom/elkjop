@@ -29,6 +29,18 @@
 	"jsclass": [],
 	"jsscript_group": [],
 	"theme": [],
+	"theme_generator": [
+		{
+			"id": "d7d3817c-fe05-47b2-89a9-df446ceacef6",
+			"name": "prom-elkjop-light",
+			"description": null
+		},
+		{
+			"id": "c4efe4e6-d9b0-4ae1-87c5-ae68d2f6c2ea",
+			"name": "prom-elkjop-light-copy",
+			"description": null
+		}
+	],
 	"pdf": [],
 	"rulesengine": [],
 	"reports": [],
@@ -261,8 +273,11 @@
 	"theme_ui5": [],
 	"webapp": [],
 	"ui5_control": [],
-	"ai_agents": [],
-	"ai_models": [],
-	"ai_prompts": [],
-	"ai_tools": []
+	"ai_agent": [],
+	"ai_model": [],
+	"ai_prompt": [],
+	"ai_tool": [],
+	"ai_guardrail": [],
+	"path_rewrite": [],
+	"vault": []
 }
