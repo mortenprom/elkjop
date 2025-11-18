@@ -39,7 +39,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.11.18.1935",
+	"ver": "25.11.18.1948",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -108,7 +108,12 @@
 			"ver": "25.11.18.1838"
 		}
 	],
-	"darkGroupLayouts": [],
+	"darkGroupLayouts": [
+		{
+			"id": "37c8f195-ea0d-412e-8d1e-ae0b9a29bfc8",
+			"ver": "25.11.18.1944"
+		}
+	],
 	"lightTileLayouts": [
 		{
 			"id": "bb3b530e-4ea1-47b0-bbce-e6c8ed2c97d9",

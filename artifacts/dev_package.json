@@ -8,7 +8,7 @@
 	},
 	"name": "prom-elkjop",
 	"description": "Elkjøp",
-	"ver": "25.09.24.0132",
+	"ver": "25.11.18.1945",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
