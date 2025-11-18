@@ -39,7 +39,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.09.18.2020",
+	"ver": "25.11.18.1935",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -105,83 +105,88 @@
 	"lightGroupLayouts": [
 		{
 			"id": "88dcad88-3884-4c72-a6f8-fe02f5f6c875",
-			"ver": "25.09.14.1459"
+			"ver": "25.11.18.1838"
 		}
 	],
 	"darkGroupLayouts": [],
 	"lightTileLayouts": [
 		{
 			"id": "bb3b530e-4ea1-47b0-bbce-e6c8ed2c97d9",
-			"ver": "25.09.14.1459"
+			"ver": "25.11.18.1836"
 		}
 	],
-	"darkTileLayouts": [],
+	"darkTileLayouts": [
+		{
+			"id": "e8b1a85d-426e-46b7-b180-4382d1370b2b",
+			"ver": "25.11.18.1837"
+		}
+	],
 	"tiles": [
 		{
 			"id": "ec552f2a-2859-4675-b5ea-9db73df9f91d",
 			"name": "elkjop-product-kitchen",
 			"title": "KJØKKEN & VASKEROM",
-			"ver": "25.08.27.0111"
+			"ver": "25.11.18.1840"
 		},
 		{
 			"id": "e35c65ef-db67-4aad-88b4-f853b77869a1",
 			"name": "elkjop-product-business",
 			"title": "BEDRIFT",
-			"ver": "25.08.27.0112"
+			"ver": "25.11.18.1840"
 		},
 		{
 			"id": "db3f895f-253a-41b0-a278-75b2939f61b0",
 			"name": "elkjop-product-gaming",
 			"title": "GAMING",
-			"ver": "25.08.27.0112"
+			"ver": "25.11.18.1840"
 		},
 		{
 			"id": "ab9a5a77-e303-4afb-bea1-81ed97c9a5f6",
 			"name": "elkjop-product-tv",
 			"title": "TV, LYD & SMARTE HJEM",
-			"ver": "25.08.27.0111"
+			"ver": "25.11.18.1839"
 		},
 		{
 			"id": "998966d0-4565-449e-8e10-ec1cf68b2e70",
 			"name": "elkjop-product-home",
 			"title": "HJEM, RENGJØRING & KJØKKENUTSTYR",
-			"ver": "25.08.29.0024"
+			"ver": "25.11.18.1840"
 		},
 		{
 			"id": "6fecc586-5cc8-4da3-ba78-41aea46848e0",
 			"name": "elkjop-product-appliance",
 			"title": "HVITEVARER",
-			"ver": "25.08.27.0112"
+			"ver": "25.11.18.1839"
 		},
 		{
 			"id": "59b815f1-3d20-475e-b98c-64b829284b84",
 			"name": "elkjop-product-office",
 			"title": "PC & KONTOR",
-			"ver": "25.08.27.0111"
+			"ver": "25.11.18.1839"
 		},
 		{
 			"id": "3853b097-d780-4417-b45c-8c6a3f2eac97",
 			"name": "elkjop-product-outlet",
 			"title": "OUTLET",
-			"ver": "25.08.27.0111"
+			"ver": "25.11.18.1924"
 		},
 		{
 			"id": "1f6cee66-60d4-4ee9-b0ce-61933ff683dc",
 			"name": "elkjop-product-personal",
 			"title": "PERSONLIG PLEIE",
-			"ver": "25.08.27.0111"
+			"ver": "25.11.18.1840"
 		},
 		{
 			"id": "1e81ced0-d913-42fb-8bf8-79d1f2966460",
 			"name": "elkjop-product-phone",
 			"title": "MOBILE, NETBRETT & SMARTKLOKKER",
-			"ver": "25.08.27.0111"
+			"ver": "25.11.18.1840"
 		},
 		{
 			"id": "1ce3ccbd-d989-48cc-9e73-cba4dbb125e6",
 			"name": "elkjop-product-services",
 			"title": "TJENESTER",
-			"ver": "25.08.27.0111"
+			"ver": "25.11.18.1840"
 		}
 	],
 	"tilegroups": [],

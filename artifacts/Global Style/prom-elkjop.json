@@ -1,0 +1,22 @@
+{
+	"id": "0d547485-8dfa-4845-8c4e-7f78b0ab2bbc",
+	"createdAt": "2025-11-18T18:41:25.633Z",
+	"createdBy": "morten@neptune-software.com",
+	"content": [],
+	"name": "prom-elkjop",
+	"ver": "25.11.18.1941",
+	"description": null,
+	"ui5Theme": null,
+	"stylesheet": null,
+	"calculated": [
+		"==OBJECT STRING==",
+		".nepTileImageContent {\r",
+		"    border-radius: 1rem;\r",
+		"}\r",
+		".nepFCard.sapFCard {\r",
+		"    border-top-left-radius: 1rem;\r",
+		"    border-top-right-radius: 1rem;\r",
+		"}"
+	],
+	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095"
+}

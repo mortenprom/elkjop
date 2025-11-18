@@ -63,7 +63,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.08.27.0111",
+	"ver": "25.11.18.1839",
 	"actionWebApp": "",
 	"name": "elkjop-product-office",
 	"cardWidth": null,
@@ -94,12 +94,7 @@
 	"FIORI_STYLE": null,
 	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
 	"roles": [],
-	"lightTileLayouts": [
-		{
-			"id": "bb3b530e-4ea1-47b0-bbce-e6c8ed2c97d9",
-			"ver": "25.09.14.1459"
-		}
-	],
+	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"i18n": []
 }

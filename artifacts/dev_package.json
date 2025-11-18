@@ -28,7 +28,13 @@
 	"dictionary": [],
 	"jsclass": [],
 	"jsscript_group": [],
-	"theme": [],
+	"theme": [
+		{
+			"id": "0d547485-8dfa-4845-8c4e-7f78b0ab2bbc",
+			"name": "prom-elkjop",
+			"description": null
+		}
+	],
 	"theme_generator": [
 		{
 			"id": "d7d3817c-fe05-47b2-89a9-df446ceacef6",
@@ -36,8 +42,8 @@
 			"description": null
 		},
 		{
-			"id": "c4efe4e6-d9b0-4ae1-87c5-ae68d2f6c2ea",
-			"name": "prom-elkjop-light-copy",
+			"id": "a5d0f3bc-9f33-4602-b789-f7256a614abf",
+			"name": "prom-elkjop-dark",
 			"description": null
 		}
 	],
@@ -175,12 +181,16 @@
 	],
 	"tile_layout": [
 		{
+			"id": "e8b1a85d-426e-46b7-b180-4382d1370b2b",
+			"NAME": "elkjop-product-dark"
+		},
+		{
 			"id": "cc4a5926-05fc-49f0-ab85-7b5dd6441d98",
 			"NAME": "elkjop-support"
 		},
 		{
 			"id": "bb3b530e-4ea1-47b0-bbce-e6c8ed2c97d9",
-			"NAME": "elkjop-product"
+			"NAME": "elkjop-product-light"
 		},
 		{
 			"id": "44d56d3d-5483-4b82-b68d-e1dd906b5e6a",
@@ -225,7 +235,7 @@
 		},
 		{
 			"id": "88dcad88-3884-4c72-a6f8-fe02f5f6c875",
-			"NAME": "elkjop-product"
+			"NAME": "elkjop-product-light"
 		},
 		{
 			"id": "6745732c-6ec1-4d6a-9047-3e8c5cfb6ff9",
@@ -234,9 +244,18 @@
 		{
 			"id": "54ec13fc-60b9-41f9-8c42-1ac2b07cbd3a",
 			"NAME": "elkjop-support"
+		},
+		{
+			"id": "37c8f195-ea0d-412e-8d1e-ae0b9a29bfc8",
+			"NAME": "elkjop-product-dark"
 		}
 	],
 	"launchpad": [
+		{
+			"id": "7bc0c58d-5760-4431-a69f-25bef5f35f99",
+			"name": "prom-elkjop-pwa",
+			"description": null
+		},
 		{
 			"id": "4b7c5123-3e9a-4433-a667-aa34940649af",
 			"name": "prom-elkjop",
@@ -247,6 +266,11 @@
 		{
 			"id": "ceffb592-76af-4e0b-8212-73d6d88b0309",
 			"NAME": "elkjop-light",
+			"DESCR": null
+		},
+		{
+			"id": "8f0663c4-d595-468c-a3b5-38d0c1ea57f9",
+			"NAME": "elkjop-dark",
 			"DESCR": null
 		}
 	],
