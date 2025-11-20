@@ -3,7 +3,7 @@
 	"createdAt": "2025-10-12T23:38:48.823Z",
 	"createdBy": "morten@neptune-software.com",
 	"name": "prom-elkjop-light",
-	"ver": "25.11.18.0056",
+	"ver": "25.11.19.0015",
 	"package": "02efc8ff-80b8-4cee-91a0-aaa395472095",
 	"active": false,
 	"description": null,
@@ -56,7 +56,7 @@
 	"CSS_VAR_INFORMATION_COLOR": null,
 	"CSS_VAR_BORDER_RADIUS": null,
 	"CSS_VAR_CUSTOM": null,
-	"CSS_VAR_CUSTOM_CSS": null,
+	"CSS_VAR_CUSTOM_CSS": "",
 	"CSS_VARIABLES": [
 		"==OBJECT STRING==",
 		":root {",
@@ -128,7 +128,7 @@
 		"  --sapContent_ImagePlaceholderForegroundColor: #5b738b;",
 		"  --sapContent_RatedColor: #d27700;",
 		"  --sapContent_UnratedColor: hsl(88, 67%, 33%);",
-		"  --sapContent_BusyColor: hsl(226, 91%, 17%);",
+		"  --sapContent_BusyColor: hsl(88, 67%, 43%);",
 		"  --sapContent_FocusColor: hsl(88, 67%, 33%);",
 		"  --sapContent_FocusStyle: solid;",
 		"  --sapContent_FocusWidth: 0.125rem;",
@@ -1581,6 +1581,10 @@
 		"",
 		"html.sap-desktop:not(.sapUiNativeScrollbars) {",
 		"  scrollbar-color: var(--sapScrollBar_FaceColor) var(--sapScrollBar_TrackColor);",
+		"}",
+		"",
+		".sapMOHR:not(.sapMOHRNoBorder) {",
+		"  box-shadow: var(--sapContent_HeaderShadow);",
 		"}",
 		""
 	]
