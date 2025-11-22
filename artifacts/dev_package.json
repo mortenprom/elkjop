@@ -38,13 +38,13 @@
 	"theme_generator": [
 		{
 			"id": "d7d3817c-fe05-47b2-89a9-df446ceacef6",
-			"name": "prom-elkjop-light",
-			"description": null
+			"name": "prom_elkjop_light",
+			"description": "Prom Elkjøp Light"
 		},
 		{
 			"id": "a5d0f3bc-9f33-4602-b789-f7256a614abf",
-			"name": "prom-elkjop-dark",
-			"description": null
+			"name": "prom_elkjop_dark",
+			"description": "Prom Elkjøp Dark"
 		}
 	],
 	"pdf": [],
